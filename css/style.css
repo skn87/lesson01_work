@@ -1,0 +1,42 @@
+*, *::before, *::after{ box-sizing: border-box; }
+section{
+    background-color: #111111;
+    height: 100px;
+    padding: 32px 0 0 0;
+}
+.footer{
+    background-color: #00ff00;
+}
+.header{
+    background-color: #ff0000;
+}
+h1{
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+}
+h2{
+    color: #111111;
+    font-size: 18px;
+    text-align: center;
+    margin: 0 0 34px 0;
+}
+div{
+    background: #F1F1F1;
+    width: 960px;
+    padding: 55px 60px 64px 60px;
+    margin: 64px auto 64px auto;
+}
+p{
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: center;
+}
+figure{
+    width: 840px;
+    height: 542px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
